@@ -17,8 +17,8 @@ This project explores the application of sentiment analysis and intent detection
 - Jupyter Notebook
 
 ## 📊 Dataset
-If public: [Link to Kaggle/HuggingFace dataset]  
-If private: Contact for access / Describe basic format.
+public: [Link to Kaggle/HuggingFace dataset]  
+private: Contact for access / Describe basic format.
 
 ## 🧠 Objective
 Improve automated understanding of customer intent and sentiment using modern NLP models like BERT in under-resourced languages such as Persian.
